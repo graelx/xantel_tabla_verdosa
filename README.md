@@ -1,7 +1,7 @@
 # Xantel Jones en La Tabla Verdosa
 
 
-##La tabla verdosa
+## La tabla verdosa
 
 La arqueóloga Xantel Jones ha sido llevada a un lugar secreto lleno de peligros por unas personas muy malas.
 Le han dicho que si quiere salir de hay para regresar a su vida cotidiana dando clases en la Universidad, necesita encontrar los 9 fragmentos de una tabla.
@@ -14,7 +14,7 @@ Y ten cuidado con los animalitos que hay por el recinto, y sobre todo con los pi
 Una vez conseguidas las 9 piezas de la tabla, regresa al punto exacto en donde apareciste y pasa a través de esa puerta. Los malos habrán conseguido lo que querían, y Xantel la ansiada libertad.
 
 
-###Controles
+### Controles
 Puedes jugar con teclado, Joystick Sinclair o Joystick Kempston.
 
 Con teclado
