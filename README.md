@@ -19,8 +19,7 @@ Puedes jugar con teclado, Joystick Sinclair o Joystick Kempston.
 
 Con teclado
 
-Q : Salta
-
+Q : Salta<br>
 A : Pasar por las puertas/portales.
 
 O : Izquierda
