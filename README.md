@@ -18,8 +18,8 @@ Una vez conseguidas las 9 piezas de la tabla, regresa al punto exacto en donde a
 Puedes jugar con teclado, Joystick Sinclair o Joystick Kempston.
 
 Con teclado
-Q : Salta
-A : Pasar por las puertas/portales.
+  Q : Salta
+  A : Pasar por las puertas/portales.
 O : Izquierda
 P : Derecha
 SPACE + O ó SPACE + P: Desplaza las cajas que se puedan mover.
